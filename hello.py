@@ -1,0 +1,1 @@
+print("kuch bhi likh doo")
