@@ -1,2 +1,2 @@
 print("kuch bhi likh doo")
-print("second line")
+print("second line updated")
