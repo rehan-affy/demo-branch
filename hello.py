@@ -1,3 +1,3 @@
 print("kuch bhi likh doo")
 print("second line updated")
-print("third line fixed")
+print("third line updated")
